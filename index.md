@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default1
 # title: Bienvenue sur Mon Site
 ---
 
