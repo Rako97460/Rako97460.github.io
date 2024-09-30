@@ -1,6 +1,8 @@
-theme: jekyll-theme-minimal
-# title: Documentations
-# description: Bookmark this to keep an eye on my project updates!
-# _config.yml
-source: ./docs
-destination: ./docs/_site
+title: Mon Site
+description: Un site avec plusieurs routes sur GitHub Pages.
+baseurl: "" # Ne rien mettre si c'est le dépôt racine de GitHub Pages
+url: "https://rako97460.github.io" # Remplacez par votre URL GitHub Pages
+
+# Markdown et extensions
+markdown: kramdown
+theme: minima
