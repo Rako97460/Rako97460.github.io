@@ -1,7 +1,7 @@
----
+<!-- ---
 layout: default
 # title: Bienvenue sur Mon Site
----
+--- -->
 
 # Bienvenue sur Mon Site
 
