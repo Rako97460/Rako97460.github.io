@@ -11,7 +11,7 @@
 
 ![alt](./assets/img/cashinhand.png)
 
-## Validation automatique des commandes et code couluer selon l'utilisateur ayant validé la commande:
+## Validation automatique des commandes et code couleur selon l'utilisateur ayant validé la commande:
 
 <video width="640" height="360" controls>
   <source src="./assets/vids/ValidationAuto.mp4" type="video/mp4">
