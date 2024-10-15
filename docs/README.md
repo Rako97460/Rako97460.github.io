@@ -7,7 +7,7 @@
   Your browser does not support the video tag.
 </video>
 
-## Validation automatique des commandes:
+## Validation automatique des commandes et code couluer selon l'utilisateur ayant validé la commande:
 
 <video width="640" height="360" controls>
   <source src="./assets/vids/ValidationAuto.mp4" type="video/mp4">
