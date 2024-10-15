@@ -13,6 +13,13 @@
 
 ## Validation automatique des commandes et code couleur selon l'utilisateur ayant validé la commande:
 
+### Definir les delais de validation
+<video width="640" height="360" controls>
+  <source src="./assets/vids/GestiondesDelans.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### Activer/desactiver la validation auto
 <video width="640" height="360" controls>
   <source src="./assets/vids/ValidationAuto.mp4" type="video/mp4">
   Your browser does not support the video tag.
