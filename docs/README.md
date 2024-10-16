@@ -24,3 +24,12 @@
   <source src="./assets/vids/ValidationAuto.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+## Suppresion d'un restaurant, d'un item et d'un addons-categorie:
+
+<video width="640" height="360" controls>
+  <source src="./assets/vids/suprElement.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<p>La suppression d'un restaurant entraine la suppression des items associés</p>
